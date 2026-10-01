@@ -1,0 +1,569 @@
+{
+  "Full Bright": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Click Gui": {
+    "enabled": false,
+    "keybind": 344,
+    "settings": {}
+  },
+  "Sprint": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Trigger Bot": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Ovqatlanishda to\u0027xtash": true,
+      "Faqat kritlar": true,
+      "Faqat probel bilan": false
+    }
+  },
+  "Removals": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "Elementlarni olib tashlash": [
+        "Olov",
+        "Suv bluri",
+        "Bloklar orqali ko\u0027rish",
+        "Kamera klip",
+        "Kamera titrashi"
+      ]
+    }
+  },
+  "KillAura": {
+    "enabled": false,
+    "keybind": 82,
+    "settings": {
+      "Rotatsiya": "NoRot",
+      "Rotatsiya xatti-harakati": "Silliq",
+      "Nishonlar": [
+        "O\u0027yinchilar",
+        "Zirhsizlar",
+        "Moblar",
+        "Hayvonlar"
+      ],
+      "Masofa": 3.0,
+      "Pre masofa": 1.5,
+      "Nishon tekshiruvi": true,
+      "Blok orqasidan urish": false,
+      "Aqlli nishon": true,
+      "Predikt": true,
+      "Predikt qiymati": 3.0,
+      "Elitralarda sekinlashish": true,
+      "Sekinlashish rejimi": "Zarba oldidan",
+      "Sekinlashish radiusi": 3.0,
+      "Min. tezlik": 0.30000001192092896,
+      "Zarbagacha tiklar": 3.0,
+      "Faqat quvib o\u0027tgandan keyin urish": true,
+      "Assist radiusi": 0.0,
+      "Assist nishondagi tezlik": 0.25,
+      "Assist yerdagi tezlik": 2.0,
+      "Assist havodagi tezlik": 2.0,
+      "Assist elitradagi tezlik": 2.0,
+      "Elitra rotatsiyasi vizuali": true,
+      "Harakat korreksiyasi": "Nishonlangan",
+      "Faqat probel bilan": false,
+      "Klient ko\u0027rinishi": true,
+      "Predikt nuqtani ko\u0027rsatish": true,
+      "Elitralarda burilish": true,
+      "Rezolver (Elytra)": true
+    }
+  },
+  "Tags": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "Turlari": [
+        "O\u0027yinchilar"
+      ],
+      "Pati ishtirokchilari": true,
+      "Stil": "Nursultan",
+      "Blur": true
+    }
+  },
+  "Target ESP": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "Rejim": "Crystals2",
+      "Arvohlar tezligi": 1.0,
+      "Arvohlar o\u0027lchami": 0.4000000059604645,
+      "Halqa tezligi": 0.05000000074505806,
+      "Halqa kamalagi": true,
+      "Zararda qizil": true,
+      "Devorlar orqali": false
+    }
+  },
+  "No Push": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Obyektlar": [
+        "O\u0027yinchilar",
+        "Bloklar"
+      ]
+    }
+  },
+  "Soul ESP": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "No Jump Delay": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Teleport Back": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Elytra Helper": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Rejim": "Vanilla",
+      "Swap tugmasi": -1,
+      "Feyerverk tugmasi": -1,
+      "Feyer rejimi": "Oddiy",
+      "Avto uchish": true
+    }
+  },
+  "Auto Totem": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Jon": 4.0,
+      "Elitrada jon": 11.0,
+      "Kristallarda ishlash": false,
+      "Sekinlashish": false,
+      "Sekinlashish davomiyligi": 100.0
+    }
+  },
+  "Click Pearl": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Rejim": "Oddiy",
+      "Otish tugmasi": -98
+    }
+  },
+  "UseTracker": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "CrystalAura": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Qo\u0027yish": true,
+      "Portlatish": true,
+      "O\u0027zingni portlatmaslik": true,
+      "Range": 4.0,
+      "Place Delay": 0.0,
+      "Break Delay": 0.0
+    }
+  },
+  "Client Sounds": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "Ovoz modi": "Birinchi"
+    }
+  },
+  "No Friend Damage": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Super Firework": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Mode": "Rage",
+      "Custom Speed": 1.6100000143051147
+    }
+  },
+  "Free Camera": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Y bo\u0027yicha Tezlik": 0.5
+    }
+  },
+  "Swing Animations": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Rejim": "Yo\u0027q",
+      "Kuch": 3.0,
+      "Tezlik": 7.0,
+      "Burchak": 90.0
+    }
+  },
+  "Predictions": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Dog Fly": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Auto Tpaccept": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "RP Spoofer": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Fire Fly": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Soni": 20.0,
+      "Temadan rang": true
+    }
+  },
+  "Anti Bot": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Auto Explosion": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "O\u0027zingni portlatma": false,
+      "Do\u0027stlarni portlatma": false,
+      "Resurslarni portlatma": false
+    }
+  },
+  "Death Coords": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Crystal Optimizer": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Gui Move": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "Universal": false,
+      "Sekinlashish davomiyligi": 50.0
+    }
+  },
+  "Tracers": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Ko\u0027rinmayotganda": false,
+      "Nezerit zirh": false,
+      "Elitra pushti rangi": false
+    }
+  },
+  "Elytra Motion": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Velocity": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "ElytraFlight": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Feyerverk kechikishi": 750.0
+    }
+  },
+  "View Model": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Chap qo\u0027l X bo\u0027yicha": -0.10000000149011612,
+      "Chap qo\u0027l Y bo\u0027yicha": 0.0,
+      "Chap qo\u0027l Z bo\u0027yicha": 0.0,
+      "O\u0027ng qo\u0027l X bo\u0027yicha": 0.0,
+      "O\u0027ng qo\u0027l Y bo\u0027yicha": 0.0,
+      "O\u0027ng qo\u0027l Z bo\u0027yicha": 0.0
+    }
+  },
+  "Kill Effect": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "Effekt": "Black Hole"
+    }
+  },
+  "Auto Armor": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Rejim": "Vanilla"
+    }
+  },
+  "Lony Helper": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Trapka": -1,
+      "Livalka": -1,
+      "Prefikslar /pvp da": true,
+      "Avto gps /rtp near da": true,
+      "Avto pvp": true,
+      "Soxta feyerverk fiksi": true,
+      "Avto pvp agar donat bo\u0027lsa": [
+        "O\u0027yinchi",
+        "Legenda",
+        "Feniks",
+        "Imperator",
+        "Hukmdor",
+        "Lord",
+        "D.Admin",
+        "Overlord",
+        "Eternity"
+      ]
+    }
+  },
+  "Speed": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Boost kuchi": 1.7999999523162842,
+      "Nishon radiusi": 0.5,
+      "Kontakt radiusi": 2.0,
+      "Faqat o\u0027yinchilar": true,
+      "Faqat harakatda": true,
+      "Faqat Aura bilan": true,
+      "Predikt": true,
+      "Predikt kuchi": 2.0
+    }
+  },
+  "Auto Tool": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Rejim": "Vanilla"
+    }
+  },
+  "Tape Mouse": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "CPS": 1.0,
+      "O\u0027ng tugma": false,
+      "Faqat botlar": true
+    }
+  },
+  "Ambience": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "Vaqt": "Tun",
+      "Tuman": true,
+      "Tuman masofasi": 500.0,
+      "Temadan tuman rangi": false
+    }
+  },
+  "Block Overlay": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Third Person": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "Tugma": 342
+    }
+  },
+  "Chams": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Shaffoflik": 0.800000011920929,
+      "Yorqinlik": 0.6000000238418579,
+      "Chiziqlar qalinligi": 1.0,
+      "Devorlar orqali": false,
+      "Nurlanish": false,
+      "Nurlanish kuchi": 1.100000023841858,
+      "Nurlanish qatlamlari": 3.0
+    }
+  },
+  "Trails": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Davomiyligi": 1000.0,
+      "Qalinligi": 2.0,
+      "Xiralik": 100.0,
+      "Birinchi shaxsdan": false,
+      "O\u0027ziga": true,
+      "Do\u0027stlarda": true,
+      "O\u0027yinchilarda": true,
+      "Moblarda": false
+    }
+  },
+  "Fast Exp": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Streamer Mode": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "Do\u0027stlarni yashirish": false
+    }
+  },
+  "Crystal Spammer": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Spam tugmasi": -1
+    }
+  },
+  "China Hat": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Air Stuck": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Rejim": "Vanilla",
+      "Ko\u0027krak zirhiga swap": true,
+      "O\u0027chganda qaytarish": true,
+      "Yiqilish tekshiruvi": true
+    }
+  },
+  "Auto Swap": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "Rejim": "Vanilla",
+      "Swap tugmasi": 3,
+      "Almashtirish": "Tumor"
+    }
+  },
+  "No Slow": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Rejim": "Vanilla"
+    }
+  },
+  "No Web": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Fake Player": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Interface": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "Elementlar": [
+        "Watermark",
+        "Koordinatalar",
+        "Faol target",
+        "Temadan target hud",
+        "Bog\u0027langan modullar",
+        "Faol moderatorlar",
+        "Baflar",
+        "Bildirishnomalar",
+        "SpekTreker",
+        "Fon bluri"
+      ],
+      "Hud rejimi": "Standart",
+      "Fon intensivligi": 0.05000000074505806,
+      "Sarlavhalar intensivligi": 0.4699999988079071,
+      "Elementlar intensivligi": 0.5,
+      "HP ogohlantirish chegarasi": 8.0
+    }
+  },
+  "Auto Eat": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Ochlik chegarasi": 12.0
+    }
+  },
+  "Auto Leave": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Masofa": 8.0,
+      "Harakat": "Hub"
+    }
+  },
+  "Well Joiner": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Grif": 1.0
+    }
+  },
+  "Well Saver": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Grif": 1.0
+    }
+  },
+  "Wings": {
+    "enabled": true,
+    "keybind": -1,
+    "settings": {
+      "O\u0027ziga": true,
+      "O\u0027yinchilarga": false,
+      "O\u0027lcham": 1.0
+    }
+  },
+  "Scoreboard Health": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  },
+  "Auto Potion": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {
+      "Otish": [
+        "Kuch iksiri",
+        "Tezlik iksiri",
+        "Olovga chidamlilik iksiri"
+      ],
+      "Ishlatgandan keyin o\u0027chirish": false
+    }
+  },
+  "GrimGlide": {
+    "enabled": false,
+    "keybind": -1,
+    "settings": {}
+  }
+}
